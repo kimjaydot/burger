@@ -9,3 +9,6 @@ devoured VARCHAR(255) NOT NULL,
 date TIMESTAMP  NOT NULL,
 PRIMARY KEY(id)
 );
+
+SET time_zone ='00:00';
+
