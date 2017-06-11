@@ -10,7 +10,7 @@ date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 PRIMARY KEY(id)
 );
 
-SET time_zone='+00:00';
+
 
 
 
